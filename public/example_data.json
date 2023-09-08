@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "question": "What is React?",
+        "answers": [
+            {"id": "1", "description": "Web Framework"},
+            {"id": "2", "description": "Language Programming"},
+            {"id": "3", "description": "Program for working with files in JavaScript"}
+        ],
+        "answer": "1"
+    },
+    {
+        "id": 2,
+        "question": "What is Python?",
+        "answers": [
+        {"id": "1", "description": "High-level programming language"},
+        {"id": "2", "description": "Programming language"},
+        {"id": "3", "description": "Language for scientific computing"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 3,
+        "question": "What does Java represent?",
+        "answers": [
+            {"id": "1", "description": "Object-oriented programming language"},
+            {"id": "2", "description": "Programming language"},
+            {"id": "3", "description": "Tool for creating mobile applications"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 4,
+        "question": "What does the abbreviation HTML stand for?",
+        "answers": [
+            {"id": "1", "description": "HyperText Markup Language"},
+            {"id": "2", "description": "Markup language"},
+            {"id": "3", "description": "Programming language for the web"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 5,
+        "question": "What is SQL?",
+        "answers": [
+            {"id": "1", "description": "Language for managing databases"},
+            {"id": "2", "description": "Programming language"},
+            {"id": "3", "description": "Language for creating web servers"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 6,
+        "question": "What are the key features of Ruby on Rails?",
+        "answers": [
+            {"id": "1", "description": "Web framework for Ruby"},
+            {"id": "2", "description": "Tool for developing web applications"},
+            {"id": "3", "description": "Programming language"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 7,
+        "question": "What is C++?",
+        "answers": [
+            {"id": "1", "description": "Programming language"},
+            {"id": "2", "description": "Language for scientific computing"},
+            {"id": "3", "description": "Language for system programming"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 8,
+        "question": "What does JavaScript represent?",
+        "answers": [
+            {"id": "1", "description": "Scripting programming language"},
+            {"id": "2", "description": "Programming language"},
+            {"id": "3", "description": "Language for creating web applications"}
+        ],
+        "answer": "1"
+    },
+        
+    {
+        "id": 9,
+        "question": "What is PHP?",
+        "answers": [
+            {"id": "1", "description": "Programming language for creating dynamic websites"},
+            {"id": "2", "description": "Programming language"},
+            {"id": "3", "description": "Language for scientific computing"}
+        ],
+        "answer": "1"
+    },
+    {
+        "id": 10,
+        "question": "What are the key characteristics of the Swift language?",
+        "answers": [
+            {"id": "1", "description": "Programming language for Android"},
+            {"id": "2", "description": "Programming language for iOS and macOS"},
+            {"id": "3", "description": "Language for creating web applications"}
+        ],
+        "answer": "1"
+    }
+]

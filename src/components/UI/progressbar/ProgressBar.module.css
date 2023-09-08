@@ -1,0 +1,15 @@
+.ProgressBar {
+    width: 520px;
+    height: 12px;
+    background-color: var(--y-c);
+    border-radius: 12px;
+    margin: 35px 50px 0 50px;
+}
+
+.ProgressBar__line {
+    height: 12px;
+    width: 20px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #3FC1C9 0%, #FC5185 100%);
+    transition: 0.4s ease;
+}

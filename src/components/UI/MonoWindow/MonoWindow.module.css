@@ -1,0 +1,43 @@
+.MonoWindow__root {
+    width: 620px;
+    height: 380px;
+    position: absolute;
+    left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.MonoWindow__main {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    background-color: var(--wl);
+    width: 620px;
+    height: 350px;
+    border-radius: 35px;
+    z-index: 50;
+}
+
+.MonoWindow__children_0 {
+    position: absolute;
+    width: 590px;
+    height: 350px;
+    left: 50%; top: 15px;
+    background-color: var(--wl);
+    opacity: 0.6;
+    transform: translateX(-50%);
+    border-radius: 35px;
+    z-index: 40;
+}
+
+.MonoWindow__children_1 {
+    position: absolute;
+    width: 550px;
+    height: 350px;
+    left: 50%; top: 30px;
+    background-color: var(--wl);
+    opacity: 0.37;
+    transform: translateX(-50%);
+    border-radius: 35px;
+    z-index: 20;
+}

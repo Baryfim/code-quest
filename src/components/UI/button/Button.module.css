@@ -1,0 +1,19 @@
+.SelectBtn {
+    width: 520px;
+    height: 45px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: var(--y-c);
+    margin-top: 13px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 30px;
+    font-weight: 500;
+    transition: .2s ease;
+}
+
+.SelectBtn:hover {
+    background-color: #dadada;
+}
