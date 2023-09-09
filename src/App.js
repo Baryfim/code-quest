@@ -24,7 +24,7 @@ function App() {
   }, [])
 
   return (
-    <div className="App">
+    <>
       {
         labelsError &&
           <h1 className='error'>Произошла ошибка: {labelsError}</h1>
@@ -76,7 +76,7 @@ function App() {
           </MonoWindow>
           )
       }
-    </div>
+    </>
   );
 }
 
